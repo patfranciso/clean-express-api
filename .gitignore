@@ -1,0 +1,9 @@
+logs/
+uploads/feature-images
+node_modules/
+play/
+llm/
+.env
+uploads/product-images
+uploads/feature-images
+tsconfig.tsbuildinfo
