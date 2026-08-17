@@ -13,7 +13,7 @@ Backend for a MERN (MongoDB, Express, React, Node.js) e-commerce application. Bu
 - **Logging:** winston with daily rotate
 - **Testing:** mocha + supertest + mongodb-memory-server
 
-![All tests](./test.png)
+![All tests](https://raw.githubusercontent.com/patfranciso/clean-express-api/main/test.png)
 
 ## Getting Started
 
